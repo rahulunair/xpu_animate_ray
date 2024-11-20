@@ -50,7 +50,7 @@
 - Keep prompts detailed but focused
 
 ## Need Help?
-Check out Intel's Tiber AI Cloud docs (https://www.intel.com/content/www/us/en/developer/tools/tiber/ai-cloud.html) for more details on VM setup and management.
+Check out Intel's [Tiber AI Cloud docs](https://www.intel.com/content/www/us/en/developer/tools/tiber/ai-cloud.html) for more details on VM setup and management.
 
 ## License
 Apache License 2.0
